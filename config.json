@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdave",
+        "uuid": 34830,
+        "checksum": "lqgmuf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
